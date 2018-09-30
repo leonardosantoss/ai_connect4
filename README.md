@@ -1,5 +1,6 @@
 # connect4
-- English
+
+--English
 
 Made by Leonardo Santos, Daniel Dong and Jorge Sousa.
 
@@ -15,7 +16,8 @@ Then the program asks for the desired depth. Minimax ranges from 1 to 6 and alph
 Finally, you can choose whether you or the bot starts the game. 1 for you to start and 2 for the bot to start.
 The player always plays with X and the bot with O.
 
-- Português
+--Português
+
 Connect4 feito por Leonardo Santos, Daniel Dong e Jorge Sousa.
 
 Para compilar o programa:
