@@ -1,4 +1,4 @@
-# connect4
+# AI for connect4
 
 --English
 
